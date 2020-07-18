@@ -1,5 +1,0 @@
-/yolo/yolo-coco
-/mobilenet_ssd/MobileNetSSD_deploy.caffemodel
-/mobilenet_ssd/MobileNetSSD_deploy.prototxt.txt
-/mask_rcnn/mask-rcnn-coco
-/facial_expression (code bugs)/facial_expression_model_weights.h5

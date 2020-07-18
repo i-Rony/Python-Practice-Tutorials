@@ -1,0 +1,30 @@
+/Multiclass Classification in numpy/ex3data.csv
+/Multiclass Classification in numpy/Theta1.csv
+/Multiclass Classification in numpy/Theta2.csv
+
+/Regression/data
+/Regression/Code/Python_CrashC1.ipynb
+/Regression/Code/Python_cc2.ipynb
+/Regression/Univariate Linear Regression/bike_sharing_data.txt
+/Regression/Decision Trees & Random Forests Regression/Datasets
+/Regression/Multiple Linear Regression/Datasets
+/Regression/Polynomial Regression/Datasets
+/Regression/Ridge & Lasso Regression/Datasets
+/Regression/Simple Linear Regression/Datasets
+/Regression/Multiple Linear Regression with Scikit Learn/Advertising.csv
+/Regression/Logistic Regression/DMV_Written_Tests.csv
+/Regression/Logistic Regression/ex2data2.txt
+/Regression/Regression Analysis with Yellowbrick/concrete.csv
+
+/openCV/yolo/yolo-coco
+/openCV/mobilenet_ssd/MobileNetSSD_deploy.caffemodel
+/openCV/mobilenet_ssd/MobileNetSSD_deploy.prototxt.txt
+/openCV/mask_rcnn/mask-rcnn-coco
+/openCV/facial_expression (code bugs)/facial_expression_model_weights.h5
+
+/Handwritten Digit Classification/t10k-images.idx3-ubyte
+/Handwritten Digit Classification/t10k-labels.idx1-ubyte
+/Handwritten Digit Classification/theta0.csv
+/Handwritten Digit Classification/theta1.csv
+/Handwritten Digit Classification/train-images.idx3-ubyte
+/Handwritten Digit Classification/train-labels.idx1-ubyte
