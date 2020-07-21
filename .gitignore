@@ -28,3 +28,6 @@
 /Handwritten Digit Classification/theta1.csv
 /Handwritten Digit Classification/train-images.idx3-ubyte
 /Handwritten Digit Classification/train-labels.idx1-ubyte
+
+/K-Means Clustering/data.xlsx
+/K-Means Clustering/titanic.xls
