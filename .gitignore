@@ -28,6 +28,7 @@
 /Handwritten Digit Classification/theta1.csv
 /Handwritten Digit Classification/train-images.idx3-ubyte
 /Handwritten Digit Classification/train-labels.idx1-ubyte
+/Handwritten Digit Classification/mnist_train_small.npy
 
 /K-Means Clustering/data.xlsx
 /K-Means Clustering/titanic.xls
